@@ -95,7 +95,7 @@ Feel free to fork this project, improve it, and submit a pull request. Any contr
 
 ---
 ## Contact 📬
-For any queries, feel free to reach out at **[Your Email or GitHub](https://github.com/santanu0101)**.
+For any queries, feel free to reach out at **[Email or GitHub](https://github.com/santanu0101)**.
 
 Thank you! 🚀🎉
 
